@@ -1,0 +1,5 @@
+/* Memilih elemen HTML dengan id "contoh" */
+#contoh {
+  background-color: yellow; /* Memberi warna background kuning */
+  color: blue; /* Memberi warna teks biru */
+}
